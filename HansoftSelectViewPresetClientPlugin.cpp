@@ -75,7 +75,6 @@ public:
 
 	virtual void On_Callback(const HPMChangeCallbackData_ClientSyncDone &_Data)
 	{
-
 		try
 		{
 			m_pDynamicHelper = shared_ptr<CDynamicHelper>(new CDynamicHelper());
@@ -161,7 +160,6 @@ public:
 	{
 		try
 		{
-
 			std::vector<HPMProjectViewPreset> presets = m_pSession->ProjectGetViewPresets(m_LastSelectedProject).m_Presets;
 			for (unsigned i=0; i<presets.size(); i+=1)
 			{

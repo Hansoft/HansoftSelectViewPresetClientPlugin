@@ -1,0 +1,1 @@
+..\..\SAFeKit\PluginInstaller\HansoftClientPluginInstaller.exe -clocalhost:50257:"Clone":sdk:sdk -icom.hansoft.selectviewpresetclientplugin:x86HansoftSelectViewPresetClientPlugin.dll:amd64HansoftSelectViewPresetClientPlugin.dll
