@@ -10,7 +10,7 @@ This plugin adds a menu item to the right-click menu in Hansoft called "Select v
 will be submenu-items for each of the view presets that potentially are applicable for the user. When selecting
 a view preset from the menu this preset will immediately be applied for the logged in user.
 
-Presets are created in the normal way by a Hansoft Main Manager and by setting the "Affecting users" option in the
+Presets are created in the normal way by a Hansoft Main Manager. By setting the "Affecting users" option in the
 preset you also control for which users the preset should be added as a menu selection by this plugin.
 
 Terms and conditions
